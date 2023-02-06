@@ -1,0 +1,3 @@
+usuario: vaxiadmin
+password: Milodevops7
+email: jc.mesadeveloper@gmail.com
